@@ -1,0 +1,17 @@
+td,input, button {
+    border: 1px solid;
+    height: 35px;
+    width: 130px;
+    text-align: center;
+    line-height: 35px;
+}
+#data {
+    position: relative;
+    width:100%;
+}
+
+button {
+    position: absolute;
+    right: 0px;
+
+}
